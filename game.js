@@ -24,7 +24,7 @@ const SWOOSHING = new Audio();
 SWOOSHING.src = "audio/sfx_swooshing.wav";
 
 const DIE = new Audio();
-DIE.src = "audio/Tolol Sound Effect .mp3";
+DIE.src = "audio/Tolol Sound Effect.mp3";
 
 // GAME STATE
 const state = {
